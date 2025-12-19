@@ -1,0 +1,12 @@
+es\ulpgc\task4\LocalBaseline.class
+es\ulpgc\task4\BlockMultiplyTask.class
+es\ulpgc\task4\CsvLogger.class
+es\ulpgc\task4\StartNode.class
+es\ulpgc\task4\DistributedMatrixMultiplier.class
+es\ulpgc\task4\ParallelMatrixMultiplier.class
+es\ulpgc\task4\MatrixUtils.class
+es\ulpgc\task4\MatrixGenerator.class
+es\ulpgc\task4\BenchmarkRunner.class
+es\ulpgc\task4\HazelcastNode.class
+es\ulpgc\task4\FrequentItemsetMapReduce.class
+es\ulpgc\task4\MatrixBlock.class
